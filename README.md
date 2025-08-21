@@ -1,4 +1,4 @@
-# Exclusive - E-Commerce Web Application
+# Exclusive - E-Commerce Website
 
 ## 📋 Project Overview
 Exclusive is a modern, responsive e-commerce web application designed to showcase a variety of products across different categories like electronics, fashion, and more. This project emphasizes a clean user interface, responsive design, and a smooth browsing experience, demonstrating best practices in front-end web development.
